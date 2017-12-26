@@ -4,7 +4,7 @@ day_display = document.getElementById('day_display');
 hour_display = document.getElementById('hour_display');
 min_display = document.getElementById('min_display');
 sec_display = document.getElementById('sec_display');
-var christmas_date = "Dec 25 2017";
+var christmas_date = "Dec 25 2018";
 
 function time_till_christmas (till_stop) {
 
